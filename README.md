@@ -12,4 +12,4 @@ In this project, I have created a dashboard on bike sales for the stakeholders s
 
 **Skills used:** Pivot charts, Slicing, Sorting and filtering, Removing duplicates.
 
-**Link**: https://github.com/Himanshi-Mishra/Excel-Projects/blob/main/Bike%20Sales%20dashboard.xlsx (by clicking on view raw you can download the excel file.)
+**Link**: https://github.com/Himanshi-Mishra/Excel-Projects/blob/main/Bike%20Sales%20dashboard.xlsx (by clicking on 'view raw' you can download the excel file.)
